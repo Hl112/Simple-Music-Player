@@ -120,7 +120,7 @@ header h2 {
 }
 
 .progress:hover::-webkit-slider-thumb {
-  background: var(--linear-gradiant-color) ;
+  background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);;
   box-shadow: -500px 0 0 500px var(--primary-color);
 }
 
